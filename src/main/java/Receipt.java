@@ -1,4 +1,4 @@
-public class reciept {
+public class Receipt {
 
     public static void main(String[] args) {
         String item = "watermelon";
